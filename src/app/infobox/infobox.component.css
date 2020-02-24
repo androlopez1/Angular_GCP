@@ -1,0 +1,33 @@
+.container-infobox {
+    height: min-content;
+    width: min-content;
+    padding: 20px;
+}
+
+.button-container {
+    width: max-content;
+    padding: 3px;
+}
+
+img{
+	height: 200px;
+	width: 300px;   
+	border-radius: 5px;
+}
+
+#instructions{
+	height: 110px;
+}
+
+a, a:hover{
+	color:white;
+	text-decoration: none;
+}
+
+#result, #result_2{
+	border:0px;
+}
+
+div#tejado, div#potencial {
+    padding-bottom: 10px;
+}
